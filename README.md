@@ -24,7 +24,7 @@ https://whitneyhess.com/blog/2009/11/23/so-you-wanna-be-a-user-experience-design
 
 ### Now lets move onto more resources **YEY!**
 
-UX Myths collects the most frequent user experience misconceptions and explains why they don't hold true. And you don't have to take our word for it, we'll show you a lot of research findings and articles by design and usability gurus.
+>UX Myths collects the most frequent user experience misconceptions and explains why they don't hold true. And you don't have to take our word for it, we'll show you a lot of research findings and articles by design and usability gurus.
 
 http://uxmyths.com
 
@@ -42,7 +42,7 @@ https://medium.com/@ZEEFcom/7-essential-resources-tips-to-get-started-with-ux-49
 
 **The Only UX Reading List Ever**
 
->*This recommended reading list is for anyone who wants to learn or deepen their knowledge in the disciplines of User Research, Usability, Information Architecture, User-Interface Design, Interaction Design, Content Strategy or Experience Strategy.*
+>This recommended reading list is for anyone who wants to learn or deepen their knowledge in the disciplines of User Research, Usability, Information Architecture, User-Interface Design, Interaction Design, Content Strategy or Experience Strategy.
 
 https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.1h6rabtov
 
@@ -50,7 +50,7 @@ https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.
 
 **52 weeks of UX**
 
-*A discourse on the process of designing for real people*
+>A discourse on the process of designing for real people
 
 http://52weeksofux.com/tagged/week_1
 
