@@ -2,9 +2,7 @@
 
 *I am learning about UX, so this repo is going to be getting bigger as long as I keep reading new material and stuff regarding UX, obviously.*
 
-### Starting with one of the most famous blogs about UX
-
-**Pleasure & Pain by Whitney Hess**
+**Blog | Pleasure & Pain by Whitney Hess**
 
 **This blog has some old material, but still gold.*
 
