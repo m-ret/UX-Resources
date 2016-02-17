@@ -1,4 +1,4 @@
-# UX-Rosources
+# UX-Resources
 
 *I am learning about UX, so this repo is going to be getting bigger as long as I keep reading new material and stuff regarding UX, obviously.*
 
