@@ -72,7 +72,7 @@ http://www.uxapprentice.com
 
 ## This is a blog for something like tips
 
-*Little Big Details | Your daily dose of design inspiration.*
+**Little Big Details | Your daily dose of design inspiration.**
 
 http://littlebigdetails.com
 
