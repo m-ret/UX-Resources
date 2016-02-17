@@ -50,7 +50,7 @@ https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.
 
 ### One of my favorites
 
-*52 weeks of UX*
+**52 weeks of UX**
 
 *A discourse on the process of designing for real people*
 
