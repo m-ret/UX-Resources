@@ -64,7 +64,7 @@ http://uxmastery.com/resources/ux-courses/
 
 http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals
 
-*UX Apprentice*
+**UX Apprentice**
 
 >Go deeper than sketches
 
